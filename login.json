@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "superweather-app",
+  "private_key_id": "12fa8fed727cf209871cc2ace76e70fa884f6768",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC28IsOD+Td8PEK\nnhz1d6+d9XiJ0kEXDsWWAIfDzaG3NlgmEiuUPRKEPKJKywi1A25d4mHlv1vVtZUH\nBetP64uggsHY13RiY5e99Tm/CEaMIpkgwU4qOTpTnzVqpZW1p3Q2gz+1lhC0vGvG\nAnQMvPY+195lIU029kKx4ebX8idFZ2dfmy8PvEwofVtUhSNilQMvUDVUpKxmmn8+\nQSIGJvVBlS4dsS9VARiiL0VY72maqmz/eKc+kEx1lnVju/WGlZTLlAm2jvGJvuDd\n34BGn3ZvLtaNPJXOQkHZ1paTtx9N5ewiqY9O7yfXInpe1JY28gxL43AwoOqVyAZa\n6c/gGbPNAgMBAAECggEAUfntXgJKTRgUc20Rzf9xf0eJ2byRdVsluEeJjvjc8CQW\nkQzQYW+SlhYzpW9g+fhNIx34P4MmDFh/rPN+lEQZP/aIFfrKSPKXA0TZuRxkvJQe\naTqmI66cT++GeME1mn6syWa8DEtwNgU/CC5+QV0FvXhvTIMFPk1Q6rQvhPIanfLr\nwFhdm3uI/0l1lPT5R5Gu6+cL/wfjGMp22uTWU4M5oVFE1JRMg1L9z230hKUhTNgu\nzk2jrIn+0w/phGTihUr/iWBnOKg2XCFDFuXLkRGgaccqSzpTwvx7PmLW7K74+1NX\nMVOK3csM1aRTWjglq0vEUbutK2PYTiKbzIXk36FXEwKBgQDZdEpZPAvUEShykJb8\nQtm6X/OXLz/Egzj13onss4t0Gi2yk7UlV9CiLB2jV6c1bkGkwTJ7Ik9Nu7kE2pTL\nzwbOuLdR9YP15Sno3OIea8HxirWmhNprvjN+KNHOsxE3cWDVgHjHBKUbSrEFaJlX\nw656/N7/U5zubB+A3D6yNsK70wKBgQDXXglQ6fkxHRFjOEXYUQOegL4Lp3n04Aq0\nQS/G9xuVej5vzX9bdUj3I8A06M2W2xieRlnbExCHboeTRVNwHWvjqSH8zmOvEraC\npNZ3CMxpc6oaZdWTH4GztbUvuFLVoH/sYVZmQSnEtqinWujoSVA4MYyV78mqcJ3L\nrfYi5Dwt3wKBgQC6D/L9348PaY7+WBGYz2qVOjyng9pAPzehyUSisA4Gzc+EGTbK\nORVfbff+J6X+5dRtMJINIhJRJOru6EihCwd8IjlZe4XqBKeThExGU1WjY1iCnvJ1\ndk2BCVRcVIPKuMxuYnr1b1gGviYxxopOujS1L2Fvfw+sQf/CtrE+s/Rz2QKBgQCM\np9vJvqWDEAr1FCF5n5+Pe2GjVuPtrA0RoKlFdsnLHCV++2U8JCNdVToI1CrBZaJ0\nbFnvHEplSSi+ZD6UMILwEtwhseGky8HrHSD8aQCntmTYDL4p8h/RcNE+s1FWOBaU\nGRZGfjR7RxhrBJKscoUzzhiVLCA3col8JsdkDk/HXQKBgGivWimRUzsjmtAyu9gb\nu/Sn3pIE1BWrbp6XPKk8yi8sH7vOd98+5GTnZQNeQhYE3K+5ZHyZqmcZWgE8JVnX\nIgZtGnW+2Trh/IBK0+8vqkn4HOGKFZO9+e6tOiADoYD8b812Ec1MhVbZLqo1yNDU\nBN9O1UrVHZ8GjI0iWE04ib8y\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-u6zqt@superweather-app.iam.gserviceaccount.com",
+  "client_id": "102047016752535418125",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-u6zqt%40superweather-app.iam.gserviceaccount.com"
+}
