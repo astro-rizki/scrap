@@ -1,5 +1,5 @@
-import sleep from time
+import time
 
 while(1):
   print("hello world")
-  sleep(10)
+  time.sleep(10)
