@@ -28,7 +28,7 @@ class StdOutListener(StreamListener):
         # print(data)
         json_data = json.loads(data)
         doc_name= json_data["id_str"]
-        doc_ref = db.collection(u'tweet-hujan').document(u''+doc_name)
+        doc_ref = db.collection(u'tweet-cuacabdg').document(u''+doc_name)
         doc_ref.set(json_data)
         print(data)
         return True
@@ -51,4 +51,4 @@ if __name__ == '__main__':
     auth.set_access_token(access_token, access_token_secret)
 
     stream = Stream(auth, l)
-    stream.filter(track=['hujan'])
+    stream.filter(track=['#cuacabdg','#cuacaBdg','#Cuacabdg','#CuacaBdg','#cuacaBDG','CuacaBDG','#CUACABDG'])

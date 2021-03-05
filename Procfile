@@ -4,4 +4,6 @@
 # worker: python scrapper-cerah.py
 # worker: python scrapper-gerimis.py
 # worker: python scrapper-hujan.py
-worker: python scrapper-mendung.py
+# worker: python scrapper-mendung.py
+
+worker: python scrapper-cuacabdg.py
