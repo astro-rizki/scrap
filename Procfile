@@ -6,4 +6,5 @@
 # worker: python scrapper-hujan.py
 # worker: python scrapper-mendung.py
 
-worker: python scrapper-cuacabdg.py
+# worker: python scrapper-cuacabdg.py
+worker: python scrapper-tempat.py
