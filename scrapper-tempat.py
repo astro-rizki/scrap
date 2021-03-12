@@ -8,15 +8,19 @@ import json
 # The consumer key and secret will be generated for you after
 # consumer_key="zj6hOR9GXVJYt2lr2FZKU1Q1G"
 # consumer_secret="0bXsZryRQixl5rvHSbfJYQnvGJirsCH0K6CV1XNz7efBT4fUgo"
-consumer_key="XeCnQSSx1ZLrN9NtIOTKYPsXS"
-consumer_secret="w9zY8ngIQojTFrZmpzpXacjKV6dWc4PvWLxU2pCX6TOzLA6eRa"
+# consumer_key="XeCnQSSx1ZLrN9NtIOTKYPsXS"
+# consumer_secret="w9zY8ngIQojTFrZmpzpXacjKV6dWc4PvWLxU2pCX6TOzLA6eRa"
+consumer_key="yeTAUfJtfbGAdMnVurAecQfSJ"
+consumer_secret="HZbs9luCsFzL3fr6NVObUpiK6R07mrrJKq8Qvats0v6sjRKi8D"
 
 # After the step above, you will be redirected to your app's page.
 # Create an access token under the the "Your access token" section
 # access_token="1184880065546313728-TZIL5FB0fvMwTAWEEjyUY7TaO2tVVl"
 # access_token_secret="F7KiOSvS1qMGFoG0wMvcQ6IFoB310eG9qxGkwNomWSiqb"
-access_token="1184880065546313728-ViWBMLTKsCs8rsdW8bMPyHHn6L1vB7"
-access_token_secret="I8AUSgnu7WjU2qfPCOCf7UszYRVdrnzvRNXa0pTv58Vaw"
+# access_token="1184880065546313728-ViWBMLTKsCs8rsdW8bMPyHHn6L1vB7"
+# access_token_secret="I8AUSgnu7WjU2qfPCOCf7UszYRVdrnzvRNXa0pTv58Vaw"
+access_token="1184880065546313728-R8DIomr219Slnx7XkGiWJ5YZAJ64Hy"
+access_token_secret="Kxy0kRGinv1BIXFJqs7xH0hL3ybH1fnRCy1n2wM0qVN2T"
 
 # Use a service account
 cred = credentials.Certificate('login.json')
